@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: propagation
+  datasource:
+    name: spring-transaction-propagation
+    url: jdbc:mysql://www.myvbox.com:3306/spring-demo?serverTimezone=UTC
+    username: root
+    password: 123456
